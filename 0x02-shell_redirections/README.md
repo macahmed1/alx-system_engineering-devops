@@ -6,3 +6,4 @@
 #5-Displaying the first 10 lines
 #6-Displaying the third line of a file
 #7-Creating a file
+#8-Writing into a file
