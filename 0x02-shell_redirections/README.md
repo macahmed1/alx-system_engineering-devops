@@ -9,3 +9,4 @@
 #8-Writing into a file
 #9-Duplicating the last line of a file
 #10-Deleting all regular files
+#11-Counting the number of directories
