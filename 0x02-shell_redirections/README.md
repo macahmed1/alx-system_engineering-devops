@@ -22,3 +22,4 @@
 #21-Reversing input
 #22-Displaying users and their home directories
 #23-Finding all empty files and directories in the current directory
+#24-Listing all files with an extension
