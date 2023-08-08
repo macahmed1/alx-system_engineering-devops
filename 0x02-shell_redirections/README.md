@@ -14,3 +14,4 @@
 #13-Taking a list of works as input and printing them out once
 #14-Displaying line containing the root pattern
 #15-Displaying lines containing the bin pattern
+#16-Displaying the lines containing the root pattern and the 3 lines after them
