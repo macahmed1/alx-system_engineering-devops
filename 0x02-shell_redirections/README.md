@@ -24,3 +24,4 @@
 #23-Finding all empty files and directories in the current directory
 #24-Listing all files with an extension
 #25-Decoding the first letter of each line
+#26-Parsing web servers logs
