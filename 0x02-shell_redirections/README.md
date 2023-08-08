@@ -11,3 +11,4 @@
 #10-Deleting all regular files
 #11-Counting the number of directories
 #12-Displaying the 10 newest files in the current directory
+#13-Taking a list of works as input and printing them out once
