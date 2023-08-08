@@ -20,3 +20,4 @@
 #19-Replacing characters with another
 #20-Removes some characters from input
 #21-Reversing input
+#22-Displaying users and their home directories
