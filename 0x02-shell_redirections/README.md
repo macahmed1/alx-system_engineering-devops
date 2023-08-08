@@ -13,3 +13,4 @@
 #12-Displaying the 10 newest files in the current directory
 #13-Taking a list of works as input and printing them out once
 #14-Displaying line containing the root pattern
+#15-Displaying lines containing the bin pattern
