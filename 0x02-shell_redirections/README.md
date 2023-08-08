@@ -15,3 +15,4 @@
 #14-Displaying line containing the root pattern
 #15-Displaying lines containing the bin pattern
 #16-Displaying the lines containing the root pattern and the 3 lines after them
+#17-Displaying all the lines in the file that do not contain the bin pattern
