@@ -7,3 +7,4 @@
 #6-Displaying the third line of a file
 #7-Creating a file
 #8-Writing into a file
+#9-Duplicating the last line of a file
