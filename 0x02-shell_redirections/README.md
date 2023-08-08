@@ -19,3 +19,4 @@
 #18-Displaying all the lines in the file containing a letter
 #19-Replacing characters with another
 #20-Removes some characters from input
+#21-Reversing input
