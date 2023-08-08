@@ -8,3 +8,4 @@
 #7-Creating a file
 #8-Writing into a file
 #9-Duplicating the last line of a file
+#10-Deleting all regular files
