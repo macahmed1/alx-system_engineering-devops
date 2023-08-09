@@ -3,3 +3,4 @@
 #2-Adding path
 #3-Counting the number of directories in the path.
 #4-Listing environment variables.
+#5-List all local variables, environment variables, and functions.
