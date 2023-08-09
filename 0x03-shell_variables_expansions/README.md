@@ -7,3 +7,4 @@
 #6-Creating a new local variable.
 #7-Creating a new global variable,
 #8-Printing the result of addition.
+#9-Printing the results of division.
